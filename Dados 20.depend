@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1639363691 source:c:\users\lisan\onedrive\documentos\code blocks\final lab i\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"FuncionesFINAL.h"
+
+1639363691 c:\users\lisan\onedrive\documentos\code blocks\final lab i\funcionesfinal.h
+
+1639103959 c:\users\lisan\onedrive\documentos\code blocks\final lab i\funciones.h
+	"FuncionesFINAL.h"
+
+1639250226 c:\users\lisan\onedrive\documentos\code blocks\final lab i\rlutil.h
+	<windows.h>
+
+1639404219 source:c:\users\lisan\onedrive\documentos\code blocks\final lab 1__dados 20\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"FuncionesFINAL.h"
+
+1639250226 c:\users\lisan\onedrive\documentos\code blocks\final lab 1__dados 20\rlutil.h
+	<windows.h>
+
+1639404150 c:\users\lisan\onedrive\documentos\code blocks\final lab 1__dados 20\funcionesfinal.h
+
